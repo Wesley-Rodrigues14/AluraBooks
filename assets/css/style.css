@@ -1,6 +1,7 @@
 @import url("../css/header.css");
 @import url("../css/banner.css");
 @import url("../css/carrosel.css");
+@import url("../css/carroselAutor.css");
 
 :root {
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
