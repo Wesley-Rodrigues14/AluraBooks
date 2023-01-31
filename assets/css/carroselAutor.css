@@ -54,3 +54,9 @@
         margin: 2em auto;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .descricao__title {
+        font-size: 32px;
+    }
+}

@@ -112,3 +112,28 @@
         display: none;
     }
 }
+
+.container__texto {
+    display: none;
+}
+
+@media screen and (min-width: 1725px) {
+    .container__texto {
+        display: block;
+    }
+
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: #000000;
+    }
+
+    .cabecalho {
+        padding: 0 2em;
+    }
+
+    .opcoes {
+        margin-right: auto;
+    }
+}
